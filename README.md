@@ -63,7 +63,7 @@ git stash list
 
 git stash pop
 
-# Merge
+# 병합 Merge
 ### Merge 하기
 git merge {브랜치명}
  
