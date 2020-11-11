@@ -49,7 +49,8 @@ git commit -am "스태이징과 커밋을 한번에!"
 git commit --amend
  
 # git remote(원격저장소) 에서 삭제된 branch 업데이트
-원격 저장소에서는 이미 삭제된 branch (merge 되어서 필요없어서 삭제된경우) branch 인데 내 로컬 저장소에는 그대로 있을때 정리하는 방법
+원격 저장소에서는 이미 삭제된 branch (merge 되어서 필요없어서 삭제된경우)
+branch 인데 내 로컬 저장소에는 그대로 있을때 정리하는 방법
 git remote prune origin
  
  
