@@ -62,6 +62,13 @@ git stash
 git stash list
 
 git stash pop
+
+# Merge
+### Merge 하기
+git merge {브랜치명}
+ 
+### 공백 무시하고 Merge (스페이스를 탭으로 바꾼다거나)
+git merge -Xignore-space-change {브랜치명}
  
 # 로그보기
 git log
