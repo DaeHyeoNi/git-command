@@ -58,9 +58,11 @@ git remote prune origin
  
 # 임시저장 (stash)
 git stash
+ 
 git stash list
-git stash pop
 
+git stash pop
+ 
 # 로그보기
 git log
 
